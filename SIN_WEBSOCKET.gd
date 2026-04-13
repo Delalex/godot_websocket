@@ -1,5 +1,13 @@
 extends Node
 
+# =========================================
+#            MADE BY DELALEX
+#            СДЕЛАЛ DELALEX
+#
+#          Специально для Вас <3
+#           Especially for You <3
+# =========================================
+
 # Сигналы для подключения
 # Signals for connection
 signal client_connected()
